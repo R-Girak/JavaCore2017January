@@ -1,4 +1,4 @@
-package OracleBook.Chapter1;
+package Chapter01;
 
 /**
  * Created by Gerka on 08-Jan-18.
